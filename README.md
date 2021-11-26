@@ -1,4 +1,4 @@
-# simple_stack_compose_sample
+# Simple Stack Compose Sample
 a sample for the amazing simple stack which can replace compose navigation.
 
 
